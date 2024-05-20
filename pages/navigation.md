@@ -1,0 +1,10 @@
+- Home
+    - *.md
+- Learn
+    - learn/*.md
+- Download
+    - download/*.md
+- Community
+    - community/*.md
+- Development
+    - development/*.md
